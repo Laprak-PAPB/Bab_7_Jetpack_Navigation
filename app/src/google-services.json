@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239707966332",
+    "project_id": "jetpacknavigation-dcf91",
+    "storage_bucket": "jetpacknavigation-dcf91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239707966332:android:6e825328e8d5a52f1032f9",
+        "android_client_info": {
+          "package_name": "com.example.jetpacknavigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy5-VaLXTo4HdsPHGmYgGGJ4cuYAn3IC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
